@@ -4,7 +4,7 @@
   "logo": "https://files.catbox.moe/ia1mgm.jpg",
   "keywords": ["whatsapp", "bot", "ultrax"],
   "repository": "https://github.com/Dark-Xploit/CypherX-Ultra",
-  "stack": "container",
+  "stack": "heroku-24",
   "addons": [
     {
       "plan": "heroku-postgresql"
